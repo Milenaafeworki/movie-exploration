@@ -1,0 +1,150 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Project 1- Movies exploration"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**Author**: Milena Afeworki"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Overview"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "This project analyzes theatrical films with intention of guiding Microsoft through the launch of its new film studio. The results of these analyses will yield actionable insights that Microsoft's new studio head can use to determine what types of films to develop."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Business Problem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Microsoft is planning on entering the movie industry and is looking for recommendations on what movies do the best at the box office. They will use this information to make informed decisions on starting a new movie studio. They would like actionable insights on past movie performance to help decide what types of films to create. This analysis will review data provided by the client from IMDb and Box Office Mojo to create recommendations that Microsoft can use in their new business venture. In this project, total gross revenue was used to determine the success of a movie. This was the most logical choice with the data given, but other alternatives are discussed in the Future Work section.\n",
+    "\n",
+    "Data"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Data"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "The analysis shown are based on the datasets in the folder ```zippedData``` gathered from the following websites\n",
+    "\n",
+    "    * https://www.boxofficemojo.com/ (Box Office Mojo)\n",
+    "    * https://www.imdb.com/          (IMDB)\n",
+    "    * https://www.themoviedb.org/    (TheMoviesDB)\n",
+    "    * https://www.the-numbers.com/   (The Numbers)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Methods"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "The analysis done for this project is mostly centred around descriptive statistics calculated from the data provided. These metrics were useful in identifying popular genres, Directors and writers involved for highest profit, and the ideal level of budget investment towards  Film making."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Results"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "After a rigorous investigation on the data to see what effect these data points have on revenue, the observation was that the type of Genres had an important role on the likelyhood of where most profit would come from.  After exploring the relationship between genre and revenue to see which genre would have the greatest chance of return on investment the analysis showed that Crime movies have the greatest returns. ![Top Ten Directors](./images/Top ten directors revenue.png) ![Relationship between Genre and Revenue](./images/Genre with relation to revenue.png) Next was to investigate who were the directors and writers behind these genres making the most returns. Last but not least we all know the production budget also plays an important role in the overall financial return of a movie in the market. And here looking more into the relationship of the Budget and Revenu gives an ideal range of Budget of for Microsoft to get started on. ![User score with relation to revenue](./images/Score with relation to revenue.png)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Conclusions"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "* Focus more on producing films of genre 'Crime', 'Action', and 'SciFi'\n",
+    "* Creating more opportunities to engage the following writers and directors\n",
+    "   Rick Jaffa\n",
+    "   Amanda Silver\n",
+    "   Stephen McFeely\n",
+    "   Christopher Markus\n",
+    "   Anthony Russo\n",
+    "   Joe Russo\n",
+    "   Derek Connolly\n",
+    "   Colin Trevorrow\n",
+    "   Stan Lee\n",
+    "   Jack Kirby\n",
+    "* Reserve a budget of $150,000,000 - $200,000,000 in order to compete with\n",
+    "  the highest spending production companies."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
