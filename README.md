@@ -31,7 +31,7 @@ After a rigorous investigation on the data to see what effect these data points 
 
 Next was to investigate who were the directors and writers engaged in the making of these genres for the most returns. So we discover the Gross profit of the top 3 genres with the following crew to be as follows.
 
-<img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/gross%20profit%20per%20directors%26writers.png'>
+<img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/dir_writers%20vs%20profit.png'>
 
 Last but not least, assumably production budget would have a significant impact on the overall financial return of a movie in the market. To support this hypothesis and back it up with some facts of figures, here we would be looking more into the relationship of the Budget and Revenue to provide an ideal range of Budget for Microsoft to get started on.
 
