@@ -62,9 +62,9 @@ Last but not least, assumably production budget would have a significant impact 
 
 ## Repository Structure
 ```
-├── notebooks
-├── data
 ├── images
+├── data
+├── Movie_data_exploration.ipynb
 ├── README.md
-└── Movie_data_exploration.ipynb
+└── presentation
 ```
