@@ -61,9 +61,10 @@ Last but not least, assumably production budget would have a significant impact 
 * Explore the times of year movies are released and look out for any correlation on when they usually have their peak returns on. 
 
 ## Repository Structure
-
+```
 ├── notebooks
 ├── data
 ├── images
 ├── README.md
 └── Movie_data_exploration.ipynb
+```
