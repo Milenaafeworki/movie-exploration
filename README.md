@@ -27,16 +27,15 @@ The methodical explorations and analysis done for this project is mostly centred
 
 After a rigorous investigation on the data to see what effect these data points have on revenue, the observation was that the type of Genres had an important role on the likelyhood of where most profit would come from.  After exploring the relationship between genre and revenue to see which genre would have the greatest chance of return on investment the analysis showed that Crime movies have the greatest returns.
 
-
-![image.png](attachment:image.png)
+<img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/genres%20vs%20gross%20profit.png'>
 
 Next was to investigate who were the directors and writers engaged in the making of these genres for the most returns. So we discover the Gross profit of the top 3 genres with the following crew to be as follows.
 
-![image.png](attachment:image.png)
+<img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/gross%20profit%20per%20directors%26writers.png'>
 
 Last but not least, assumably production budget would have a significant impact on the overall financial return of a movie in the market. To support this hypothesis and back it up with some facts of figures, here we would be looking more into the relationship of the Budget and Revenue to provide an ideal range of Budget for Microsoft to get started on.
 
-![image.png](attachment:image.png)
+<img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/budget%20vs%20gross%20revenue.png'>
 
 ## Final Recommendations
 
