@@ -39,8 +39,8 @@ Last but not least, assumably production budget would have a significant impact 
 
 ## Final Recommendations
 
-* Focus more on producing films of genre 'Crime', 'Action', and 'SciFi'.
-* Creating more opportunities to engage the following writers and directors:
+1. Focus more on producing films of genre 'Crime', 'Action', and 'SciFi'.
+2. Creating more opportunities to engage the following writers and directors:
    - Rick Jaffa
    - Amanda Silver
    - Stephen McFeely
@@ -51,14 +51,14 @@ Last but not least, assumably production budget would have a significant impact 
    - Colin Trevorrow
    - Stan Lee
    - Jack Kirby
-* Reserve a budget of 55,000,000 - 150,000,000 in order to compete with
+3. Reserve a budget of 55,000,000 - 150,000,000 in order to compete with
   some of the highest earning production companies.
 
 ## Further Research
 
-* Getting insights on how metrics like "popularity" and "rating" would   potentially affect the amount of time a customer would spend within a streaming of a movie watching platform, that way aside from the financial gain Microsoft could guarantee keeping loyal customers.
+1. Getting insights on how metrics like "popularity" and "rating" would   potentially affect the amount of time a customer would spend    within a streaming of a movie watching platform, that way aside from the financial gain Microsoft could guarantee keeping loyal customers.
 
-* Explore the times of year movies are released and look out for any correlation on when they usually have their peak returns on. 
+2. Explore the times of year movies are released and look out for any correlation on when they usually have their peak returns on. 
 
 ## Repository Structure
 ```
