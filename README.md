@@ -54,7 +54,7 @@ Last but not least, assumably production budget would have a significant impact 
    - Colin Trevorrow
    - Stan Lee
    - Jack Kirby
-3. Invest a budget of 90 Million - 205 Million dollars to compete with
+3. Invest a budget of ```$90 Million - $205 Million``` to compete with
    some of highest earning production companies.
    
 ## Further Research
