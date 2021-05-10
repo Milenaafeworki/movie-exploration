@@ -39,8 +39,8 @@ Last but not least, assumably production budget would have a significant impact 
 
 ## Final Recommendations
 
-1. Focus more on producing films of genre 'Crime', 'Action', and 'SciFi'.
-2. Creating more opportunities to engage the following writers and directors:
+1. Genres 'Crime', 'Action', and 'SciFi' to become the cornerstones of Movie Production.
+2. Recruit the following writers and directors.
    - Rick Jaffa
    - Amanda Silver
    - Stephen McFeely
@@ -51,9 +51,9 @@ Last but not least, assumably production budget would have a significant impact 
    - Colin Trevorrow
    - Stan Lee
    - Jack Kirby
-3. Reserve a budget of 55,000,000 - 150,000,000 in order to compete with
-  some of the highest earning production companies.
-
+3. Invest a budget of 90,000,000 - 205,000,000 dollars to compete with
+   some of highest earning production companies.
+   
 ## Further Research
 
 1. Getting insights on how metrics like "popularity" and "rating" would   potentially affect the amount of time a customer would spend    within a streaming of a movie watching platform, that way aside from the financial gain Microsoft could guarantee keeping loyal customers.
