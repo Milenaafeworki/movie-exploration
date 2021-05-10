@@ -35,7 +35,9 @@ Next was to investigate who were the directors and writers engaged in the making
 
 Last but not least, assumably production budget would have a significant impact on the overall financial return of a movie in the market. To support this hypothesis and back it up with some facts of figures, here we would be looking more into the relationship of the Budget and Revenue to provide an ideal range of Budget for Microsoft to get started on.
 
-<img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/budget%20vs%20gross%20revenue.png'>
+<img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/25_budget%20vs%20gross.png'>
+
+<img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/min_budget%20vs%20gross.png'>
 
 ## Final Recommendations
 
