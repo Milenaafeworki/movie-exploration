@@ -42,8 +42,8 @@ Last but not least, assumably production budget would have a significant impact 
 
 ## Final Recommendations
 
-1. Genres 'Crime', 'Action', and 'SciFi' to become the cornerstones of Movie Production.
-2. Recruit the following writers and directors.
+1. Genres 'Crime', 'Action', and 'SciFi' to become the  innovative cornerstones of Movie Production.
+2. Recruit the following  experienced writers and directors and create more opportunities to engage those crew.
    - Rick Jaffa
    - Amanda Silver
    - Stephen McFeely
