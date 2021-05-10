@@ -35,9 +35,10 @@ Next was to investigate who were the directors and writers engaged in the making
 
 Last but not least, assumably production budget would have a significant impact on the overall financial return of a movie in the market. To support this hypothesis and back it up with some facts of figures, here we would be looking more into the relationship of the Budget and Revenue to provide an ideal range of Budget for Microsoft to get started on.
 
+<img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/min_budget%20vs%20gross.png'>
+
 <img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/25_budget%20vs%20gross.png'>
 
-<img src='https://raw.githubusercontent.com/Milenaafeworki/movie-exploration/master/Images/min_budget%20vs%20gross.png'>
 
 ## Final Recommendations
 
@@ -53,7 +54,7 @@ Last but not least, assumably production budget would have a significant impact 
    - Colin Trevorrow
    - Stan Lee
    - Jack Kirby
-3. Invest a budget of 90,000,000 - 205,000,000 dollars to compete with
+3. Invest a budget of 90 Million - 205 Million dollars to compete with
    some of highest earning production companies.
    
 ## Further Research
